@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jugo de naranja",
+        "precio": "900",
+        "cantidad": "20"
+    },
+    {
+        "id": 2,
+        "nombre": "Sopa de tomate",
+        "precio": "1500",
+        "cantidad": "15"
+    },
+    {
+        "id": 3,
+        "nombre": "Toronja",
+        "precio": "300",
+        "cantidad": "40"
+    },
+    {
+        "id": 4,
+        "nombre": "Galleta Soda",
+        "precio": "2000",
+        "cantidad": "9"
+    }
+]
